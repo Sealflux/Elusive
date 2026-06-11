@@ -1,5 +1,12 @@
 # Development Log - Elusive Smart Glasses
 
+## Date: June 11th, 2026
+
+I realized that I could use Lapse so I don't need to continue this Journal.md
+Also saves me the hassle of timing myself when I start and end on my phone Yay.
+
+
+
 ## Date: June 10th, 2026
 **Time Spent:** 1 hour 14 minutes
 
